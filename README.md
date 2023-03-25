@@ -8,11 +8,14 @@ I would like to first preface that my works here are still at the <b>basic</b> l
 With the myriad of opportunities and applications within machine learning, and the entire field of artificial intlligence, I am eager to learn more about it and improve my skills to someday contribute to the betterment of society.
 </div>
 
-|Title                                    |Procedure                              |Description                             |
-|:---------------------------------------:|:--------------------------------------|:---------------------------------------|
-|[Car Price Analysis and Prediction][R1]|<ul><li>Data Cleaning</li> <li>Exploratory Data Analysis</li> <li>Linear Regression with Recursive Feature Elimination</li><li>Random Forest Regression with Hyperparameter Tuning</li></ul>||
-|[A Traveling Salesperson Problem][TSP2]|Given 11 nodes randomly placed in a 2D-coordinate systems, the path with the least cost and passes through each node once is sought.|<ul><li>Christofides Algorithm</li> <li>Networkx Python Library</li></ul>|
-|[A Warehouse Location Problem][WLP1]|A company seeks to build new warehouses in at least one of their four interested locations. In addition, the warehouses should minimize the fixed and delivery costs while meeting the demand of their customers.|<ul><li>Mixed Integer Linear Programming</li> <li>PuLP Python Library</li></ul>|
-|[A Job Sequencing Problem][JSP1]|The problem asks to find the sequence that minimizes the total cost given 5 jobs. One should take into account the processing times and due dates, as well as the associated costs incurred for any delays or interruptions.|<ul><li>Heuristic Programming</li> <li>Tabu Search Algorithm</li> <li>Python</li></ul>|
+|Title                                    |Procedure                              |
+|:---------------------------------------:|:--------------------------------------|
+|[Car Price Analysis and Prediction][R1]|<ul><li>Data Cleaning</li> <li>Exploratory Data Analysis</li> <li>Feature Engineering</li> <li>Linear Regression with Recursive Feature Elimination</li><li>Random Forest Regression with Hyperparameter Tuning</li></ul>|
+|[Health Insurance Expense Analysis and Prediction][R2]|<ul><li>Data Cleaning</li> <li>Exploratory Data Analysis</li> <li>Feature Engineering</li> <li>Linear Regression with Recursive Feature Elimination</li><li>Random Forest Regression with Hyperparameter Tuning</li><li>XGBoost Regressor with Hyperparameter Tuning</li></ul>|
+|[Customer Churn Prediction][C1]|<ul><li>Data Cleaning</li> <li>Exploratory Data Analysis</li> <li>Feature Engineering</li> <li>Logistic Regression Recursive Feature Elimination</li><li>Random Forest Classification with Hyperparameter Tuning</li></ul>|
+|[Building Energy Efficiency Analysis and Prediction (2 Target Variables)][R3]|<ul><li>Data Cleaning</li> <li>Exploratory Data Analysis</li> <li>Feature Engineering</li> <li>Linear Regression with Recursive Feature Elimination</li><li>Random Forest Regression with Hyperparameter Tuning</li></ul>|
 
 [R1]: https://github.com/JPReyes07/Machine-Learning/blob/7ad23c3e0f25feb7967cf92b3e060a0c72832e67/CarPrice.ipynb
+[R2]: https://github.com/JPReyes07/Machine-Learning/blob/72344fe6c05633dfbe6b921e8e5ddad870360b18/InsuranceExpenses.ipynb
+[C1]: https://github.com/JPReyes07/Machine-Learning/blob/4ee64064506e4d42d23988cb3d82db19c208225c/TelecomCustomerChurn.ipynb
+[R3]: https://github.com/JPReyes07/Machine-Learning/blob/4ee64064506e4d42d23988cb3d82db19c208225c/EnergyEfficiency.ipynb
